@@ -1,2 +1,2 @@
-# -omic-book
+# -сomic-book
 **Инструкция**
